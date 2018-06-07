@@ -10,7 +10,7 @@ setup(
   author='Gulsah Kose',
   author_email='gulsah.1004@gmail.com',
   install_requires=[
-  "flask==0.10.1"
+  "flask>=0.10.0"
   ],
   include_package_data=True,
   packages=find_packages()
